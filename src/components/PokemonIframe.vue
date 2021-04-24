@@ -1,6 +1,7 @@
 <template>
     <article>
         <h3>I was lazy, so here's an Iframe for Pokemon!</h3>
+        <!-- pokemon iframe very buggy -->
         <iframe 
          src="https://www.retrogames.cc/embed/19330-pokemon-fire-red-u-independent.html" 
          width="600" height="450" 

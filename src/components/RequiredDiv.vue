@@ -40,11 +40,13 @@
 
 <script>
     export default {
+        // I named it this because I didn't know if the other sub-components were acceptable
         name: "required-div",
     }
 </script>
 
 <style scoped>
+/* bit rusty with css styling, but I think I managed */
     #credits {
         display: grid;
         gap: 15px;
